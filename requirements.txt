@@ -1,6 +1,13 @@
+
 Flask
 flask-cors
 supabase
 gunicorn
 python-dotenv
 requests
+=======
+flask
+flask-cors
+supabase
+python-dotenv
+
